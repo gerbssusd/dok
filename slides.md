@@ -21,6 +21,9 @@ McTighe, J., & Silver, H. F. (2020). Teaching for deeper learning: Tools to enga
 Antoine-Pierre Mongin, Chene (Oak Tree), 1816, NGA 57501.jpg<br>
 https://purl.org/nga/collection/artobject/57501, CC0, via Wikimedia Commons
 </div>
+---
+background: /images/slide_1_imaage_1.jpg
+---
 
 ---
 
