@@ -39,6 +39,11 @@ https://purl.org/nga/collection/artobject/57501, CC0, via Wikimedia Commons
 layout: center
 background: /slide_1_image_1.jpg
 ---
+
+---
+layout: center
+background: /slide_1_image_1.jpg
+---
 # Teaching for Deeper Learning
 
 **Strategies suggested in the book**
