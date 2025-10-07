@@ -25,6 +25,21 @@ css: unocss
 ---
 
 ---
+layout: center
+background: /slide_1_image_1.jpg
+---
+# Teaching for Deeper Learning
+
+**Strategies suggested in the book**
+
+McTighe, J., & Silver, H. F. (2020). Teaching for deeper learning: Tools to engage students in meaning making. ASCD.
+
+<div class="text-xs opacity-50 mt-8">
+Antoine-Pierre Mongin, Chene (Oak Tree), 1816, NGA 57501.jpg<br>
+https://purl.org/nga/collection/artobject/57501, CC0, via Wikimedia Commons
+</div>
+
+---
 
 # Teaching for Deeper Learning
 
