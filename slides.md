@@ -25,6 +25,7 @@ css: unocss
 ---
 
 ---
+
 # Teaching for Deeper Learning
 
 **Strategies suggested in the book**
