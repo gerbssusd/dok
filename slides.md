@@ -9,9 +9,7 @@ info: |
 drawings:
   persist: false
 css: unocss
----
-layout: center
-background: /slide_1_image_1.jpg
+
 ---
 
 # Teaching for Deeper Learning
