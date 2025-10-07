@@ -25,8 +25,6 @@ https://purl.org/nga/collection/artobject/57501, CC0, via Wikimedia Commons
 background: /images/slide_1_image_1.jpg
 ---
 
----
-
 # Framing Curriculum and Instruction around Important Ideas
 
 ---
