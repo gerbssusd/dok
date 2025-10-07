@@ -12,6 +12,18 @@ css: unocss
 ---
 
 ---
+theme: seriph
+class: 'text-center'
+highlighter: shiki
+lineNumbers: false
+info: |
+  ## Teaching for Deeper Learning
+  Strategies suggested in the book by McTighe & Silver (2020)
+drawings:
+  persist: false
+css: unocss
+
+---
 
 # Teaching for Deeper Learning
 
