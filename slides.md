@@ -9,10 +9,9 @@ info: |
 drawings:
   persist: false
 css: unocss
-
 ---
 
-# Teaching for Deeper Learning
+-# Teaching for Deeper Learning
 
 **Strategies suggested in the book**
 
