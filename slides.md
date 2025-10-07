@@ -22,6 +22,7 @@ Antoine-Pierre Mongin, Chene (Oak Tree), 1816, NGA 57501.jpg<br>
 https://purl.org/nga/collection/artobject/57501, CC0, via Wikimedia Commons
 </div>
 ---
+layout: center
 background: /images/slide_1_image_1.jpg
 ---
 
