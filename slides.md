@@ -97,7 +97,7 @@ image: /6.png
 backgroundSize: contain
 ---
 
-<div class=
+<div class="
 # Conceptualizing
 
 <div class="text-xs opacity-50 absolute bottom-4 left-4">
