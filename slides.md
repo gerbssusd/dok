@@ -54,7 +54,7 @@ backgroundSize: 100% 110%
 # Concept Word Wall
 
 <div class="grid grid-cols-2 gap-8">
-<div class="mt-20">
+<div >
 
 **Post focus themes, concepts, and processes on a wall or bulletin board**
 
