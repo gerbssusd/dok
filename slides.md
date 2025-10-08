@@ -9,8 +9,8 @@ info: |
 drawings:
   persist: false
 css: unocss
-layout: image-right
-image: /1_2.png
+layout: cover
+background: /1_2.png
 backgroundSize: contain
 ---
 
