@@ -12,7 +12,7 @@ css: unocss
 ---
 ---
 layout: image-right
-image: /1.1.png
+image: /1_2.png
 ---
 
 # Teaching for Deeper Learning
