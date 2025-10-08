@@ -42,7 +42,7 @@ backgroundSize: contain
 
 # A Study In...
 
-<div class="grid grid-cols-2 gap-20">
+<div class="grid grid-cols-2 gap-">
 <div>
 
 **Planning to focus on key concepts – NOT topics, skills or texts**
