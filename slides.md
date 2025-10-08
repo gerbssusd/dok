@@ -98,6 +98,7 @@ backgroundSize: contain
 ---
 
 <div class="text-lg center>
+
 # Conceptualizing
 
 <div class="text-xs opacity-50 absolute bottom-4 left-4">
