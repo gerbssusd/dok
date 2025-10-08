@@ -289,6 +289,9 @@ class: text-center
 </div>
 
 ---
+layout: image
+image: /13.jpg
+---
 
 # Note Making and Summarizing
 
