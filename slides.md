@@ -94,6 +94,7 @@ backgroundSize: 100% 110%
 layout: image-right
 image: /6.png
 backgroundSize: contain
+class: left
 ---
 
 <div center>
