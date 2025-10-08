@@ -268,9 +268,6 @@ class: text-center
 - Dreams help our brains sort through our memories and thoughts
 
 ---
-layout: image
-image: /13.jpg
----
 
 # Connect the Concepts
 
