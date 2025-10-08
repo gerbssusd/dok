@@ -199,7 +199,7 @@ layout: two-cols
 </div>
 
 ---
-layout: image
+layout: image-left
 image: /13.jpg
 ---
 
