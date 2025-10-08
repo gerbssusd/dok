@@ -28,7 +28,7 @@ https://purl.org/nga/collection/artobject/57501, CC0, via Wikimedia Commons
 ---
 layout: image-right
 image: /2_2.png
-backgroundSiae: contain
+backgroundSie: contain
 ---
 
 # Framing Curriculum and Instruction around Important Ideas
