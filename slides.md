@@ -72,7 +72,6 @@ backgroundSize: 100% 110%
 
 ---
 
-<
 # Essential Questions
 
 <div class="grid grid-cols-2 gap-8">
