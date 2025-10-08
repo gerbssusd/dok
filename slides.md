@@ -43,7 +43,6 @@ backgroundSize: 100% 110%
 
 **Planning to focus on key concepts – NOT topics, skills or texts**
 
-
 - There is no "correct" choice for concept or theme focus
 
 **The study should**
