@@ -107,38 +107,6 @@ CC BY-SA 4.0, via Wikimedia Commons
 </div>
 
 ---
-# Conceptualizing
-
-<div class="text-xs opacity-50 absolute bottom-4 right-4">
-"The Human Digestive System" Chavan R L ; Khandagale V S,<br>
-CC BY-SA 4.0, via Wikimedia Commons
-</div>
-
----
-
-# Conceptualizing
-
-<div class="grid grid-cols-2 gap-8">
-<div>
-
-## The What
-
-- Leads to deep learning
-- Using facts, examples, observations, and experiences to construct understandings of important concepts and conceptual relationships.
-
-</div>
-<div>
-
-## The Why
-
-- Stimulates meaning making and leads to deep learning.
-- Students can unite ideas under a larger conceptual umbrella
-- Prepares students to develop important understandings on their own.
-
-</div>
-</div>
-
----
 
 # The How
 
