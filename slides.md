@@ -43,7 +43,11 @@ backgroundSize: contain
 **Planning to focus on key concepts – NOT topics, skills or texts**
 
 </div>
-
+---
+layout: image-right
+image: /2_2.png
+backgroundSize: contain
+---
 <div>
 
 - There is no "correct" choice for concept or theme focus
