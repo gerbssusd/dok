@@ -94,7 +94,7 @@ backgroundSize: 100% 110%
 layout: image-right
 image: /6.png
 backgroundSize: contain
-class: mt -20
+class: mt -20text-xs opacity-50 mt-8"
 ---
 
 <div center>
