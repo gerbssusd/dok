@@ -165,7 +165,7 @@ layout: two-cols
 ---
 
 # Yes: Examples of the Concept
-<div style="width: height=70%;">vvvv</div>
+<div style="width:  height=70%;">vvvv</div>
 
 ::right::
 
