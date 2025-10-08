@@ -200,6 +200,9 @@ layout: two-cols
 
 ---
 
+layout: image
+image: /13.jpg
+---
 # A Study In
 
 <div class="grid grid-cols-2 gap-8">
