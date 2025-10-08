@@ -35,7 +35,7 @@ backgroundSize: contain
 
 ---
 layout: image-left
-image: /23.png
+image: /3.png
 backgroundSize: contain
 ---
 
