@@ -165,7 +165,7 @@ layout: two-cols
 ---
 
 # Yes: Examples of the Concept
-<div style="border: solid 3px white height=70%;"></div>
+<div style="border: solid 3px white; height=70%;"></div>
 
 ::right::
 
