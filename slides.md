@@ -72,7 +72,7 @@ backgroundSize: 100% 110%
 
 ---
 
-<div class="mt-20">
+<
 # Essential Questions
 
 <div class="grid grid-cols-2 gap-8">
