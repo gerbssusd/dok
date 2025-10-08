@@ -34,6 +34,10 @@ backgroundSize: contain
 # Framing Curriculum and Instruction around Important Ideas
 
 ---
+layout: image-right
+image: /2_2.png
+backgroundSize: contain
+---
 
 # A Study In...
 
