@@ -98,7 +98,7 @@ backgroundSize: contain
 ---
 
 layout: center
--
+
 # Conceptualizing
 
 <div class="text-xs opacity-50 absolute bottom-4 left-4">
