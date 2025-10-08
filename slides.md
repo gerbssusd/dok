@@ -36,7 +36,7 @@ backgroundSize: contain
 ---
 layout: image-right
 image: /3.jpg
-backgroundSize: 90%
+backgroundSize: 9%
 ---
 
 # A Study In...
