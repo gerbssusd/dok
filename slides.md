@@ -11,7 +11,8 @@ drawings:
 css: unocss
 ---
 ---
-background: /slide_1_image_1.jpg
+Layout: image-right
+image: /slide_1_image_1.jpg
 ---
 
 <Comp src="/slide_1_image_1.jpg" />
