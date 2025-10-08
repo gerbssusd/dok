@@ -38,6 +38,12 @@ layout: image-left
 image: /3.jpg
 ---
 
+layout: image-right
+image: /2_2.png
+backgroundSize: contain
+---
+---
+
 # A Study In...
 
 <div class="grid grid-cols-2 gap-8">
