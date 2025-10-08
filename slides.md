@@ -205,20 +205,15 @@ image: /13.jpg
 
 # A Study In
 
-<div class="grid grid-cols-2 gap-8">
-<div>
+<div class="text-xs opacity-50 absolute bottom-4">
 
 Da Vinci's Study of the Graduations of Shadows on Spheres
 
 </div>
-<div>
 
 - Ask students to identify a broader concept or theme that can tie learned information together.
 - Have students justify choices with facts and examples
 - Be sure to include "Because..."
-
-</div>
-</div>
 
 ---
 # A Study In
