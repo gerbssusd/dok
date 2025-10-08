@@ -36,7 +36,7 @@ backgroundSize: contain
 ---
 layout: image-left
 image: /3.jpg
-backgroundSize: contain
+backgroundSize: 20
 ---
 
 # A Study In...
