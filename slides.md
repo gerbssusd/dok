@@ -10,7 +10,11 @@ drawings:
   persist: false
 css: unocss
 ---
+---
+background: /slide_1_image_1.jpg
+---
 
+<Comp src="/slide_1_image_1.jpg" />
 # Teaching for Deeper Learning
 
 **Strategies suggested in the book**
