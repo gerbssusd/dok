@@ -36,7 +36,7 @@ backgroundSize: contain
 ---
 layout: image-right
 image: /3.jpg
-backgroundSize: contain; float right
+backgroundSize: contain; float-right
 ---
 
 # A Study In...
