@@ -97,7 +97,7 @@ image: /6.png
 backgroundSize: contain
 ---
 
-## Conceptualizing
+# Conceptualizing
 
 <div class="text-xs opacity-50 absolute bottom-4 left-4">
 "The Human Digestive System" Chavan R L ; Khandagale V S,<br>
