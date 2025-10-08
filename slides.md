@@ -110,12 +110,14 @@ CC BY-SA 4.0, via Wikimedia Commons
 
 <div class="grid grid-cols-2 gap-8">
 <div>
+  
 ## The What
 
 - Leads to deep learning
 - Using facts, examples, observations, and experiences to construct undersatandings of important concepts and conceptual relationships.
 </div>
 <div>
+  
 ## The Why
 
 - Stimulates meaning making and leads to deep learning.
