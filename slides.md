@@ -72,6 +72,7 @@ backgroundSize: 100% 110%
 
 ---
 
+<div class="mt-20">
 # Essential Questions
 
 <div class="grid grid-cols-2 gap-8">
@@ -79,6 +80,7 @@ backgroundSize: 100% 110%
 
 **Open-ended questions that reflect the big ideas that students should understand**
 
+</div>
 </div>
 <div>
 
