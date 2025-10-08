@@ -121,7 +121,6 @@ CC BY-SA 4.0, via Wikimedia Commons
   
 ## The Why
 
-
 - Stimulates meaning making and leads to deep learning.
 - Students can unite ideas under a larger conceptual umbrella
 - Prepares students to develop important understandings on their own.
