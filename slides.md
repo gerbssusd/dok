@@ -42,7 +42,6 @@ backgroundSize: 100% 110%
 # A Study In...
 
 
-
 **Planning to focus on key concepts – NOT topics, skills or texts**
 
 </div>
