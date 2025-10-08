@@ -55,7 +55,6 @@ backgroundSize: 100% 110%
 
 <div class="grid grid-cols-2 gap-8">
 
-
 **Post focus themes, concepts, and processes on a wall or bulletin board**
 
 </div>
