@@ -36,9 +36,29 @@ backgroundSize: contain
 ---
 layout: image-left
 image: /3.jpg
-
 backgroundSize: contain
 ---
+
+---
+
+# A Study In...
+
+<div class="grid grid-cols-2 gap-8">
+<div>
+
+**Planning to focus on key concepts – NOT topics, skills or texts**
+
+</div>
+<div>
+
+- There is no "correct" choice for concept or theme focus
+
+**The study should**
+- Support target standards
+- Support "big" ideas
+
+</div>
+</div>
 
 ---
 
