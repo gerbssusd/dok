@@ -96,6 +96,17 @@ backgroundSize: 100% 110%
 ---
 layout: image-right
 image: /6.png
+
+# Conceptualizing
+
+<div class="text-xs opacity-50 absolute bottom-4 right-4">
+"The Human Digestive System" Chavan R L ; Khandagale V S,<br>
+CC BY-SA 4.0, via Wikimedia Commons
+</div>
+
+---
+layout: image-right
+image: /6.png
 # Conceptualizing
 
 <div class="text-xs opacity-50 absolute bottom-4 right-4">
