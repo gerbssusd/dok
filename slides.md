@@ -59,7 +59,7 @@ backgroundSize: 100% 110%
 **Post focus themes, concepts, and processes on a wall or bulletin board**
 
 </div>
-<div class>
+<div c>
 
 - Unit specific words
 - Whole discipline words
