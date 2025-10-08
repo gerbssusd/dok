@@ -202,11 +202,6 @@ layout: two-cols
 layout: image-left
 image: /13.jpg
 ---
----
-# Example using frontmatter align:lm-rt to align left-middle on the left, right-top on the right
-layout: side-title
-align: lm-rt
----
 
 # A Study In
 
