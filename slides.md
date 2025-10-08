@@ -97,7 +97,7 @@ image: /6.png
 backgroundSize: contain
 ---
 
-<div class="text- center>
+<div class="text-L center>
 
 # Conceptualizing
 </div>
