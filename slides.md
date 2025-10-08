@@ -11,7 +11,7 @@ drawings:
 css: unocss
 ---
 ---
-ayout: image-right
+layout: image-right
 image: /slide_1_image_1.jpg
 ---
 
