@@ -34,7 +34,7 @@ backgroundSize: contain
 # Framing Curriculum and Instruction around Important Ideas
 
 ---
-layout: image-right 30
+layout: image-right 30%
 image: /3.jpg
 backgroundSize: contain
 ---
