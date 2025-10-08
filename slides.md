@@ -108,7 +108,7 @@ CC BY-SA 4.0, via Wikimedia Commons
 
 ---
 
-<div class="grid grid-cols-2 gap-8 mt">
+<div class="grid grid-cols-2 gap-8 mt20">
 <div class=mt-20>
   
 ## The What
