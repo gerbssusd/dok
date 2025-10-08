@@ -80,7 +80,6 @@ backgroundSize: 100% 110%
 **Open-ended questions that reflect the big ideas that students should understand**
 
 </div>
-</div>
 <div>
 
 - Serve to "awaken" not "train"
