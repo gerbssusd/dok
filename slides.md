@@ -109,7 +109,7 @@ CC BY-SA 4.0, via Wikimedia Commons
 ---
 
 <div class="grid grid-cols-2 gap-8">
-<div class=mt-0>
+<div class=mt-50>
   
 ## The What
 
