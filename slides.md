@@ -224,7 +224,7 @@ flowchart TB
       direction TB
        b1
         b2
-        e
+        end
     subgraph three 
       direction LR
     c1[Other Items in this category] 
