@@ -215,7 +215,7 @@ Nonexamples
 </div>
 
 ```mermaid
-flowchart T
+flowchart TD
     A@{ shape: braces, label: "MOOOO" }
     B@{ shape: cyl, label: "MOMO"}
 
