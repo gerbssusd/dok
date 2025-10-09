@@ -218,7 +218,7 @@ Nonexamples
 mindmap
   root((Other Items))
     Origins
-      Long history
+      )Long history
       Popularisation
         British popular psychology author Tony Buzan
     Research
