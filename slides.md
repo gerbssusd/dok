@@ -211,9 +211,9 @@ Nonexamples
 flowchart TB
     subgraph one 
      direction TB
-      a1@{ shape: card, label: Detailed Definition}
+     a1@{ shape: card, label: Detailed Definition}
      end
-    subgraph Key Attributes
+    subgraph two
      direction TB
      d1[attribute1] -->
      d2[attribute2] -->
