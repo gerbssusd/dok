@@ -215,7 +215,7 @@ Nonexamples
 </div>
 
 ```mermaid
-flowchart 
+flowchart TB
     c1-->a2
     subgraph one TB
     a1-->a2
