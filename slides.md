@@ -214,13 +214,7 @@ Nonexamples
 
 </div>
 
-```mermaid
-flowchart TB
-   A(Other Items in this category)
-   D{examples}
 
-   --> B[Category the Term belo ngs to]
-    C[term]
 
 
 
