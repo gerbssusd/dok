@@ -216,7 +216,7 @@ Nonexamples
 
 ```mermaid
 flowchart RL
-A@{ shape: rect }
+    A@{ shape: manual-file, label: "File Handling"}
 
 
 ```
