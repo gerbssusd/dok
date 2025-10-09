@@ -175,7 +175,9 @@ layout: two-cols
 
 ::right::
 
-# No: Nonexamples
+# No: 
+
+Nonexamples
 
 <div style="border: 3px solid black; width: 70%; height:70%; background-color: white; border-radius: 25px;"></div>
 
