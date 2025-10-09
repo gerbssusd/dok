@@ -216,7 +216,7 @@ Nonexamples
 
 ```mermaid {theme: 'neutral', scale: 0.8}
 Flowchart LR
-id1(Other Items in this category) --> B[Category the Term belongs to]
+i(Other Items in this category) --> B[Category the Term belongs to]
 ((C))
 
 
