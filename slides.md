@@ -214,7 +214,7 @@ Nonexamples
 
 </div>
 
-```mermaid {theme: 'neutral', scale: 0.8}
+```mermaid 
 flowchart LR
   A(Other Items in this category)
   D{examples}
