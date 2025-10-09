@@ -223,7 +223,7 @@ flowchart TB
     subgraph two
     b1-->b2
     end
-    subgraph three 
+    subgraph three LR
     c1[Other Items in this category] 
     c2(Examples)
     end
