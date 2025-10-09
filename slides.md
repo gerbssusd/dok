@@ -218,7 +218,7 @@ Nonexamples
 flowchart TD
     A@{ shape: braces, label: "MOOOO" }
     B@{ shape: flag, label: "MOMO"}
-floac
+fl
     C@{ shape: flag, label: "Mooagain"}
 
 
