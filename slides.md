@@ -216,7 +216,6 @@ Nonexamples
 
 ```mermaid2
 flowchart
-
     subgraph one 
      direction TB
     a1@{ shape: card, label: Detailed Definition}
