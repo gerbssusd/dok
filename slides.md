@@ -224,7 +224,7 @@ flowchart TB
      d1[attribute1]
      d2[attribute1]
      d3[attribute1]
-     d4
+     d4[attribute1]
      end
     subgraph three
       direction TB
