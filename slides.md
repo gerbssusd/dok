@@ -215,9 +215,9 @@ Nonexamples
 </div>
 
 ```mermaid
-sequenceDiagram
-  Alice->John: Hello John, how are you?
-  Note over Alice,John: A typical interaction
+flowchart LR
+    id1{This is the text in the box}
+
 ```
 
 ---
