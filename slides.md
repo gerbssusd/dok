@@ -217,7 +217,7 @@ Nonexamples
 ```mermaid
 flowchart TD
     A@{ shape: braces, label: "MOOOO" }
-    B@{ shape: p, label: "MOMO"}
+    B@{ shape: flag, label: "MOMO"}
 
 
 
