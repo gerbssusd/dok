@@ -218,7 +218,7 @@ Nonexamples
 flowchart TB
     subgraph one 
      direction TB
-    a1[Detailed 
+    a1[Detailed De
      end
     subgraph Key Attributes
      d1[attribute1]
