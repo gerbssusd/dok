@@ -217,7 +217,7 @@ Nonexamples
 ```mermaid
 flowchart RL
     A@{ shape: braces, label: "MOOOO" }
-    A@{ shape: cy, label: "MOMO"}
+    A@{ shape: cyl, label: "MOMO"}
 
 
 
