@@ -216,10 +216,16 @@ Nonexamples
 
 ```mermaid
 flowchart TB
-   A(Other Items in this category)
-   D{examples}
-   subgraph one
-   B[Category the Term belo ngs to] --> C[term]
+    c1-->a2
+    subgraph one
+    a1-->a2
+    end
+    subgraph two
+    b1-->b2
+    end
+    subgraph three
+    c1-->c2
+    end
 
 
 
