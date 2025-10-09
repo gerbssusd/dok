@@ -216,6 +216,7 @@ Nonexamples
 
 ```mermaid {theme: 'neutral', scale: 0.8}
 flowchart LR
+
   subgraph one
    --> B[Category the Term belo ngs to]
     C[term]
