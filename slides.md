@@ -227,7 +227,7 @@ flowchart TB
         b3 
         end
     subgraph three 
-      direction LR
+      direction TB
     c1[Other Items in this category] 
     c2(Examples)
     end
