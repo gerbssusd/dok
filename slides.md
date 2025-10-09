@@ -222,7 +222,7 @@ flowchart TB
      end
     subgraph two
       direction TB
-       b1 
+       b1
         b2
         end
     subgraph three 
