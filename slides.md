@@ -215,10 +215,25 @@ Nonexamples
 </div>
 
 ```mermaid
-flowchart TD
-    A@{ shape: braces, label: "MOOOO" }
-    B@{ shape: flag, label: "MOMO"}
-    C@{ shape: flag, label: "Mooagain"}
+mindmap
+  root((mindmap))
+    Origins
+      Long history
+      ::icon(fa fa-book)
+      Popularisation
+        British popular psychology author Tony Buzan
+    Research
+      On effectiveness<br/>and features
+      On Automatic creation
+        Uses
+            Creative techniques
+            Strategic planning
+            Argument mapping
+    Tools
+      Pen and paper
+      Mermaid
+
+
 
 
 ```
