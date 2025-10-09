@@ -215,7 +215,7 @@ Nonexamples
 </div>
 
 ```mermaid
-flowchart 
+flowchart
     c1[Other Items in this category] 
     c2(Examples)
     subgraph one 
