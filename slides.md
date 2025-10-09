@@ -219,7 +219,7 @@ flowchart TD
     A@{ shape: braces, label: "MOOOO" }
     B@{ shape: flag, label: "MOMO"}
 flowchart lR
-    C@{ shape: f, label: Mooagain"}
+    C@{ shape: flag, label: Mooagain"}
 
 
 ```
