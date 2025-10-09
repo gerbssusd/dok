@@ -233,7 +233,7 @@ flowchart TB
         end
     subgraph four
         e1((Other items in this category))
-        e2 (Examp
+        e2 (Example
         end
 
 
