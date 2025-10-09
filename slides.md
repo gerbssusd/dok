@@ -212,8 +212,7 @@ Nonexamples
 
 ↓ **Examples** ↓ **Detailed definition**
 
-flowchart TD
-    A@{ shape: subproc, label: "This is a subprocess" }
+
 
 
 </div>
