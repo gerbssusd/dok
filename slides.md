@@ -222,7 +222,7 @@ flowchart TB
      end
     subgraph Key Attributes
      d1[attribute1]
-     d
+     d2
      end
     subgraph three
       direction TB
