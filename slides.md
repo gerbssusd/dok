@@ -226,7 +226,7 @@ flowchart TB
         b2[term]
         b3 
         end
-    subgraph K
+    subgraph 
       direction TB
     c1[Other Items in this category] 
     c2(Examples)
