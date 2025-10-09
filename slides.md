@@ -224,7 +224,7 @@ flowchart TB
     b1-->b2
     end
     subgraph three
-    c1[Oth --> c2
+    c1[Other Items  --> c2
     end
 
 
