@@ -216,7 +216,7 @@ Nonexamples
 
 ```mermaid
 flowchart RL
-    A@{ shape: Ban, label: "File Handling"}
+    A@{ shape: Bang, label: "File Handling"}
     B@{ shape: manual-input, label: "User Input"}
     C@{ shape: docs, label: "Multiple Documents"}
     D@{ shape: procs, label: "Process Automation"}
