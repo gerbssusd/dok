@@ -224,7 +224,7 @@ mindmap
         Research
           On effectiveness<br/>and features
          On Automatic creation
-        Uses
+         Uses
             Creative techniques
             Strategic planning
             Argument mapping
