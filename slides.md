@@ -216,7 +216,7 @@ Nonexamples
 
 ```mermaid
 flowchart
-    c1-->a2
+    
     subgraph one 
      direction LR
     a1-->a2
