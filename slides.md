@@ -219,7 +219,7 @@ mindmap
   root((Other Items))
     Origins
       )Long history(
-       Popularisation
+      Popularisation
         British popular psychology author Tony Buzan
     Research
       On effectiveness<br/>and features
