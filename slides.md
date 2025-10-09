@@ -134,7 +134,7 @@ CC BY-SA 4.0, via Wikimedia Commons
 class: mt-40
 ---
 
-<Arrow x1="800" y1="20" x2="20" y2="200" width="10"/>
+<Arrow x1="800" y1="20" x2="230" y2="200" width="10"/>
 
 # The How
 
