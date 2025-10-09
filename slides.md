@@ -210,7 +210,7 @@ Nonexamples
 
 **Other items in this category** ← **Category the term belongs to** → **Key Attributes**
 
-#↓ **Examples** ↓ **Detailed definition**
+# ↓ **Examples** ↓ **Detailed definition**
 
 </div>
 
