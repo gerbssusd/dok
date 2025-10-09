@@ -221,7 +221,7 @@ flowchart TB
     a1-->a2
      end
     subgraph two
-     
+     d
     subgraph three
       direction TB
         b1(Category the term belongs to)
