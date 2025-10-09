@@ -215,7 +215,7 @@ Nonexamples
 </div>
 
 ```mermaid {theme: 'neutral', scale: 0.8}
-Flowch LR
+Flowchart LR
 A(Other Items in this category) --> B[Category the Term belongs to]
 }C{
 
