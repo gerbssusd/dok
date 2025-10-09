@@ -219,7 +219,7 @@ graph LR
 A(Other Items in this category) --> B[Category the Term belongs to]
 B--> C{boo}-->D 
 B --> D[Result 1]
-C -->|Two| E[Result 2]
+ -->|Two| E[Result 2]
 H{boo2}
 
 
