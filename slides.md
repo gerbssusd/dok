@@ -224,7 +224,7 @@ flowchart TB
       direction TB
         b1(Category the term belongs to)
         b2[term]
-  
+        
         end
     subgraph three 
       direction LR
