@@ -215,7 +215,7 @@ Nonexamples
 </div>
 
 ```mermaid {theme: 'neutral', scale: 0.8}
-flowchart LR
+G
 A(Other Items in this category) --> B[Category the Term belongs to]
 B --> C[term] --> D{examples}
 
