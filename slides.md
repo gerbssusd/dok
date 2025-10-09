@@ -227,7 +227,7 @@ flowchart TB
      d4[attribute4]
      end
     subgraph three
-      direction 
+      direction LR
         b1(Category the term belongs to)
         b2[term]
         b3 
