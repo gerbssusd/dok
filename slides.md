@@ -222,7 +222,7 @@ flowchart TB
      end
     subgraph two
       direction TB
-       b1((Category the term 
+       b1((Category the term b
         b2
         end
     subgraph three 
