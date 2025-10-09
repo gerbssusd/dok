@@ -234,8 +234,7 @@ flowchart TB
         end
     subgraph four
       direction LR
-    c1[Other Items in this category] 
-    c2(Examples)
+
     end
 
 
