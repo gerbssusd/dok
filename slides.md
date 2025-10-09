@@ -221,7 +221,7 @@ flowchart TB
     a1-->a2
      end
     subgraph two
-      direction T
+      direction TB
         b1(Category the term belongs to)
         b2[term]
         end
