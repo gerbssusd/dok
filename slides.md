@@ -220,7 +220,7 @@ flowchart TB
      direction TB
     a1-->a2
      end
- Key Attributes
+    subgraph Key Attributes
      d1[attribute1]
      d2[attribute2]
      d3[attribute3]
