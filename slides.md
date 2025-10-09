@@ -216,7 +216,7 @@ Nonexamples
 
 ```mermaid {theme: 'neutral', scale: 0.8}
 graph LR
-B[Other Items in this category] --> C{Category the Term belongs to}
+[Other Items in this category] --> C{Category the Term belongs to}
 B -->|One| D[Result 1]
 C -->|Two| E[Result 2]
 ```
