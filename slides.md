@@ -232,7 +232,7 @@ flowchart TB
         b2[term]
         end
     subgraph four
-        e1((Other item
+        e1((Other items in t
         end
 
 
