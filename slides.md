@@ -225,7 +225,7 @@ flowchart TB
     b1-->b2
     end
     subgraph three 
-      direction TD
+      direction T
     c1[Other Items in this category] 
     c2(Examples)
     end
