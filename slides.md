@@ -221,7 +221,7 @@ flowchart TB
     a1@{ shape: card, label: Detailed Definition}
      end
     subgraph Key Attributes
-     dir
+     direction
      d1[attribute1] -->
      d2[attribute2] -->
      d3[attribute3] ==>
