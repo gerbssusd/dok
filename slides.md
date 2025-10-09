@@ -230,7 +230,6 @@ flowchart TB
       direction RL
         b1(Category the term belongs to)
         b2[term]
- 
         end
 
 
