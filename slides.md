@@ -215,7 +215,7 @@ Nonexamples
 </div>
 
 ```mermaid
-
+flowchart RL
 A@{ shape: rect }
 
 
