@@ -172,7 +172,7 @@ layout: two-cols
 
 # No: Nonexamples
 
-<div style="border: 3px solid black;width: 70%; height:70%; background-color: white;"></div>
+<div style="border: 3px solid black; width: 70%; height:70%; background-color: white;"></div>
 
 ---
 
