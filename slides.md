@@ -225,7 +225,7 @@ flowchart TB
     end
     subgraph three
     c1[Other Items in this category] 
-    c2Examples)
+    c2(Examples)
     end
 
 
