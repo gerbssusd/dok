@@ -221,7 +221,7 @@ flowchart TB
     a1-->a2
     end
     subgraph two
-      direc
+      direction
     b1
     b2
     end
