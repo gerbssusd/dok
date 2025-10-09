@@ -227,7 +227,6 @@ flowchart TB
         b3 
         end
     subgraph Key 
-
       direction TB
     c1[Other Items in this category] 
     c2(Examples)
