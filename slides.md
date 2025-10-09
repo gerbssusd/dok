@@ -216,7 +216,7 @@ Nonexamples
 
 ```mermaid {theme: 'neutral', scale: 0.8}
 graph LR
-B[Other Items in th] --> C{Decision}
+B[Other Items in this ] --> C{Decision}
 C -->|One| D[Result 1]
 C -->|Two| E[Result 2]
 ```
