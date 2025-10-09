@@ -165,11 +165,14 @@ layout: two-cols
 ---
 
 # Yes: Examples of the Concept
-<div style="width: 70%; height:70%; background-color: white;"></div>
+
+<div style="width: 70%; height:70%; background-color: white; border-radius: 25px;"></div>
 
 ::right::
 
 # No: Nonexamples
+
+<div style="width: 70%; height:70%; background-color: white;"></div>
 
 ---
 
@@ -291,6 +294,9 @@ class: text-center
 </div>
 
 ---
+layout: image-left
+image: /19.jpg
+---
 
 # Note Making and Summarizing
 
@@ -298,6 +304,9 @@ class: text-center
 Rostov on Don's Lecture notes on mathematical and linear algebra
 </div>
 
+---
+layout: image-right
+image: /20.png
 ---
 
 # Tools for...
@@ -432,6 +441,9 @@ Franz van Duns, CC BY-SA 4.0, via Wikimedia Commons
 | | | | ✔ ★ ? |
 
 ---
+layout: image-right
+image: /27.png
+---
 
 # Webbing
 
@@ -486,6 +498,9 @@ Don Horne, CC BY 4.0, via Wikimedia Commons
 - **E:** Does my summary contain the **essential** ideas only?
 
 ---
+layout: image-left
+image: /32.png
+---
 
 # Comparing
 
@@ -517,6 +532,9 @@ NASA and ESA, CC BY-SA 4.0, via Wikimedia Commons
 | | | | |
 
 ---
+layout: image-left
+image: /35.png
+---
 
 # Top Hat Organizer
 
@@ -539,6 +557,9 @@ Everaldo Coelho (YellowIcon);, LGPL, via Wikimedia Commons
 </div>
 </div>
 
+---
+layout: image-left
+image: /36.jpg
 ---
 
 # Reading for Understanding
@@ -575,6 +596,9 @@ Louvre Museum, Public domain, via Wikimedia Commons
 | | | |
 | | | |
 
+---
+layout: image-left
+image: /40.jpg
 ---
 
 # Visualizing And Graphic Representation
