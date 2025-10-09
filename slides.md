@@ -216,7 +216,7 @@ Nonexamples
 
 ```mermaid
 flowchart TB
-    Other items in this category-->a2
+    Other items in this category -->a2
     subgraph one
     a1-->a2
     end
