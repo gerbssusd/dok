@@ -220,7 +220,7 @@ flowchart TB
    D{examples}
 
    B[Category the Term belo ngs to]
-    C[term]
+   C[term]
 
 
 
