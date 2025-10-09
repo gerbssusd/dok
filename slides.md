@@ -217,7 +217,7 @@ Nonexamples
 ```mermaid
 flowchart TB
    A(Other Items in this category)
-  D{examples}
+   D{examples}
   subgraph one
    --> B[Category the Term belo ngs to]
     C[term]
