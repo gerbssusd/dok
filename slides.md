@@ -231,7 +231,7 @@ flowchart TB
         b1(Category the term belongs to)
         b2[term]
         end
-    sub
+    subgraph
 
 
 
