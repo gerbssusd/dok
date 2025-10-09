@@ -222,7 +222,6 @@ Nonexamples
 
 
 ```
-
 ---
 layout: image-left
 image: /13.jpg
