@@ -218,7 +218,7 @@ Nonexamples
 flowchart TB
     c1-->a2
     subgraph one 
-     direction LB
+     direction L
     a1-->a2
     end
     subgraph two
