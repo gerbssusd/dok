@@ -215,13 +215,9 @@ Nonexamples
 </div>
 
 ```mermaid
-flowchart RL
-    A@{ shape: b, label: "File Handling"}
-    B@{ shape: manual-input, label: "User Input"}
-    C@{ shape: docs, label: "Multiple Documents"}
-    D@{ shape: procs, label: "Process Automation"}
-    E@{ shape: paper-tape, label: "Paper Records"}
-
+sequenceDiagram
+  Alice->John: Hello John, how are you?
+  Note over Alice,John: A typical interaction
 ```
 
 ---
