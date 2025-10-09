@@ -218,7 +218,7 @@ Nonexamples
 flowchart TB
     subgraph one 
      direction TB
-    a1@{ shape: rect, label: Detailed Definition
+    a1@{ shape: rect, label: Detailed Definition}
      end
     subgraph Key Attributes
      d1[attribute1]
