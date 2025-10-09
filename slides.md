@@ -217,7 +217,8 @@ Nonexamples
 ```mermaid
 flowchart TB
     c1-->a2
-    subgraph one TB
+    subgraph one 
+TB
     a1-->a2
     end
     subgraph two
