@@ -150,7 +150,7 @@ class: mt-40
 <div>
 
 **Inductive avenue for students to develop their own concept definitions**
-<div syle=
+<div syle="
 </div>
 <div>
 
