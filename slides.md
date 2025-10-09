@@ -151,7 +151,7 @@ class: mt-40
 
 **Inductive avenue for students to develop their own concept definitions**
 
-<div style="width: 0; height: 0; border-left: 100px solid transparent; border-right: 100px solid transparent; border-bottom: px solid blue;"></div>
+<div style="width: 0; height: 0; border-left: 100px solid transparent; border-right: 100px solid transparent; border-bottom: 1px solid blue;"></div>
 
 </div>
 <div>
