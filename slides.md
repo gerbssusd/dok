@@ -214,7 +214,13 @@ Nonexamples
 
 </div>
 
+```mermaid
+flowchart TB
+   A(Other Items in this category)
+   D{examples}
 
+   --> B[Category the Term belo ngs to]
+    C[term]
 
 
 
@@ -222,6 +228,7 @@ Nonexamples
 
 
 ```
+
 ---
 layout: image-left
 image: /13.jpg
