@@ -218,7 +218,7 @@ Nonexamples
 flowchart TB
    A(Other Items in this category)
    D{examples}
-   
+   su
    B[Category the Term belo ngs to] --> C[term]
 
 
