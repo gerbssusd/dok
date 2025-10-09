@@ -214,24 +214,12 @@ Nonexamples
 
 </div>
 
-```mermaid
-mindmap
-  root((Other Items))
-    Origins
-      )Long history(
-    Popularisation
-        British popular psychology author Tony Buzan
-        Research
-          On effectiveness<br/>and features
-         On Automatic creation
-            Uses
-            Creative techniques
-            Strategic planning
-            Argument mapping
-    Tools
-      Pen and paper
-      Mermaid
-
+```mermaid {theme: 'neutral', scale: 0.8}
+graph TD
+B[Text] --> C{Decision}
+C -->|One| D[Result 1]
+C -->|Two| E[Result 2]
+```
 
 
 
