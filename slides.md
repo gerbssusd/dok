@@ -223,7 +223,7 @@ flowchart TB
     subgraph two
       direction TB
        b1
-    b2
+       b2
     end
     subgraph three 
       direction LR
