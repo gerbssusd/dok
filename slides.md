@@ -216,7 +216,7 @@ Nonexamples
 
 ```mermaid {theme: 'neutral', scale: 0.8}
 graph TB
-A(Other Items in this category) -- B[Category the Term belongs to]
+A(Other Items in this category) --> B[Category the Term belongs to]
 B --> C[term] --> D{examples}
 
 
