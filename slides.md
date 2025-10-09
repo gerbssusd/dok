@@ -218,7 +218,7 @@ Nonexamples
 flowchart TB
     subgraph one 
      direction TB
-    a1Detailed Definition]
+    a1@Detailed Definition]
      end
     subgraph Key Attributes
      d1[attribute1]
