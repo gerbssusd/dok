@@ -214,7 +214,7 @@ Nonexamples
 
 </div>
 
-```mermaid2
+```mermaid
 flowchart TB
     subgraph one 
      direction TB
