@@ -216,7 +216,7 @@ Nonexamples
 
 ```mermaid
 mindmap
-  root((Other It))
+  root((Other Items))
     Origins
       Long history
       ::icon(fa fa-book)
