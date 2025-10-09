@@ -215,8 +215,7 @@ Nonexamples
 </div>
 
 ```mermaid
-flowchart LR
-    id1((This is the text in the circle))
+A@{ shape: rect }
 
 
 ```
