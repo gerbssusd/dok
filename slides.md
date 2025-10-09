@@ -216,7 +216,7 @@ Nonexamples
 
 ```mermaid {theme: 'neutral', scale: 0.8}
 flowchart LR
-  subgraph o
+  subgraph one
   A(Other Items in this category) --> B[Category the Term belo ngs to]
     C[term]
 D{examples}
