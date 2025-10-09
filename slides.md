@@ -214,7 +214,7 @@ Nonexamples
 
 </div>
 
-```mermaid
+```mermaid2
 flowchart
     c1[Other Items in this category] 
     c2(Examples)
