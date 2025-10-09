@@ -215,7 +215,7 @@ Nonexamples
 </div>
 
 ```mermaid
-flowchart TB
+flowchart LR
     subgraph one 
      direction LR
     a1-->a2
