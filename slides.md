@@ -206,13 +206,6 @@ Nonexamples
 
 # Concept Definition Map
 
-<div class="text-center text-sm">
-
-**Other items in this category** ← **Category the term belongs to** → **Key Attributes**
-
-↓ **Examples** ↓ **Detailed definition**
-
-</div>
 
 ```mermaid
 flowchart TB
