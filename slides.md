@@ -221,7 +221,7 @@ mindmap
       )Long history(
        Popularisation
         British popular psychology author Tony Buzan
-       Research
+        Research
       On effectiveness<br/>and features
          On Automatic creation
         Uses
