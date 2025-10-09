@@ -216,7 +216,7 @@ Nonexamples
 
 ```mermaid
 flowchart RL
-    A@{ shape: b }
+    A@{ shape: ban }
 
 
 ```
