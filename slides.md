@@ -109,7 +109,7 @@ CC BY-SA 4.0, via Wikimedia Commons
 
 ---
 
-<Arrow x1="100" y1="20" x2="800" y2="20" />
+<Arrow x1="1000" y1="20" x2="800" y2="20" />
 <div class="grid grid-cols-2 gap-8 mt-20">
 <div>
   
