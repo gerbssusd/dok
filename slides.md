@@ -215,7 +215,7 @@ Nonexamples
 </div>
 
 ```mermaid {theme: 'neutral', scale: 0.8}
-flo LR
+flowc LR
   subgraph1
   A(Other Items in this category) --> B[Category the Term belo ngs to]
     C[term]
