@@ -151,6 +151,7 @@ class: mt-40
 
 **Inductive avenue for students to develop their own concept definitions**
 
+
 </div>
 <div>
 
