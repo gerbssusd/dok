@@ -216,7 +216,7 @@ Nonexamples
 
 ```mermaid
 flowchart TB
-      c1[Other Items in this category] 
+     c1[Other Items in this category] 
     c2(Examples)
     subgraph one 
      direction TB
