@@ -214,7 +214,7 @@ Nonexamples
 
 </div>
 
-```mermaid 
+```mermaid
 flowchart LR
   A(Other Items in this category)
   D{examples}
