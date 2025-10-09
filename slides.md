@@ -234,8 +234,6 @@ flowchart TB
         b2[term]
         b3 
         end
-    subgraph four
-      direction LR
 
     end
 
