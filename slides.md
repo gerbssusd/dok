@@ -215,7 +215,7 @@ Nonexamples
 </div>
 
 ```mermaid
-grap TD
+f TD
     A@{ shape: braces, label: "MOOOO" }
     B@{ shape: flag, label: "MOMO"}
 
