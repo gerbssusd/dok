@@ -220,7 +220,7 @@ flowchart LR
   subgraph one
    --> B[Category the Term belo ngs to]
     C[term]
-D{examples}
+
 
 
 
