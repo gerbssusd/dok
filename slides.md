@@ -134,6 +134,8 @@ CC BY-SA 4.0, via Wikimedia Commons
 class: mt-40
 ---
 
+<Arrow x1="10" y1="20" x2="100" y2="200" />
+
 # The How
 
 - Concepts and generalizations from observations and examples
