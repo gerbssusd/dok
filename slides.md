@@ -215,7 +215,7 @@ Nonexamples
 </div>
 
 ```mermaid
-flowc TD
+flowchar TD
     A@{ shape: braces, label: "MOOOO" }
     B@{ shape: flag, label: "MOMO"}
 
