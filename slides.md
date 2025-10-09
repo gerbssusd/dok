@@ -223,7 +223,7 @@ mindmap
         British popular psychology author Tony Buzan
     Research
       On effectiveness<br/>and features
-       On Automatic creation
+        On Automatic creation
         Uses
             Creative techniques
             Strategic planning
