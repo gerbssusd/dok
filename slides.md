@@ -223,7 +223,7 @@ flowchart TB
     subgraph Key Attributes
      d1[attribute1]
      d2[attribute2]
-     d3[attribute1]
+     d3[attribute3]
      d4[attribute1]
      end
     subgraph three
