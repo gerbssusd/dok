@@ -498,7 +498,7 @@ Don Horne, CC BY 4.0, via Wikimedia Commons
 
 ```mermaid {scale: .70}
 
-flowchart L
+flowchart LR
     id1((This is the text in the circle)) -->
     id2((This is the text in the circle)) -->
     id3((This is the text in the circle))
