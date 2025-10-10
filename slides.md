@@ -562,7 +562,7 @@ backgroundSize: contain
 <div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
 
 **Summary Paragraph: What did I learn?**
-/di
+/div
 
 ---
 
