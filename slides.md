@@ -482,6 +482,7 @@ The Diagram
 | | | | ✔ ★ ? |
 | | | | ✔ ★ ? |
 
+
 ✔ = I know this
 ★ = I need to review this
 ? = I have a question about this
