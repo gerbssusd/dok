@@ -498,7 +498,7 @@ Don Horne, CC BY 4.0, via Wikimedia Commons
 
 ```mermaid
 
-flowchart TB
+flowchart T
 
   a((x))
   b((x))
