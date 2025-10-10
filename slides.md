@@ -496,7 +496,7 @@ Don Horne, CC BY 4.0, via Wikimedia Commons
 
 ---
 
-```mermaid {scale: 1.0
+```mermaid {scale: 1.0}
 
 flowchart LR
    a --> b & c--> d
