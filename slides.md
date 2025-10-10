@@ -550,7 +550,7 @@ backgroundSize: contain
 
 **The TWO most important ideas**
 </div>
-
+</
 
 **The ONE most important idea**
 
