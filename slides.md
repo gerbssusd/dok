@@ -279,7 +279,7 @@ class: mt-40
     <li style="padding-top: 2em">Fact D:</li></br>
   </ul>
 </div>
-<div class=style="height:20%; width:100%; border: grey 3px solid;">
+<div class="style="height:20%; width:100%; border: grey 3px solid;">
 
 **Conclusion:**
 </div>
