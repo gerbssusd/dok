@@ -495,6 +495,17 @@ Don Horne, CC BY 4.0, via Wikimedia Commons
 </div>
 
 ---
+```mermaid
+flowchart TD
+a(())
+b(())
+c(())
+d(())
+e(())
+f(())
+```
+
+---
 
 # 421 Summarize
 
