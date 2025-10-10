@@ -481,7 +481,8 @@ The Diagram
 | | | | ✔ ★ ? |
 | | | | ✔ ★ ? |
 | | | | ✔ ★ ? |
-
+| | | | ✔ ★ ? |
+| | | | ✔ ★ ? |
 
 ✔ = I know this
 ★ = I need to review this
