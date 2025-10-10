@@ -548,8 +548,6 @@ backgroundSize: contain
 
 
 **The TWO most important ideas**
-</div>
-</div>
 
 **The ONE most important idea**
 
