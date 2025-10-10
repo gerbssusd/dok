@@ -498,9 +498,7 @@ Don Horne, CC BY 4.0, via Wikimedia Commons
 
 ```mermaid {scale: .60}
 ---
-config:
-  layout: fixed
----
+
 flowchart TD
     n11[" "] --> n12[" "]
     n13[" "] --> n14[" "]
