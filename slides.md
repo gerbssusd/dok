@@ -498,7 +498,7 @@ Don Horne, CC BY 4.0, via Wikimedia Commons
 
 ```mermaid {scale: 2.0}
 
-flowchart LR
+flowchart TB
    a & b 
 c & d
 
