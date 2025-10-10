@@ -496,8 +496,7 @@ Don Horne, CC BY 4.0, via Wikimedia Commons
 
 ---
 
-```mermaidflowchartConfig = {
-    width: 100%
+```mermaidf
 }
 
 flowchart LR
