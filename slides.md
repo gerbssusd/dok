@@ -498,23 +498,8 @@ Don Horne, CC BY 4.0, via Wikimedia Commons
 
 ```mermaid {scale: .70}
 
-mindmap
-  root((mindmap))
-    Origins
-      Long history
-      ::icon(fa fa-book)
-      Popularisation
-        British popular psychology author Tony Buzan
-    Research
-      On effectiveness<br/>and features
-      On Automatic creation
-        Uses
-            Creative techniques
-            Strategic planning
-            Argument mapping
-    Tools
-      Pen and paper
-      Mermaid
+flowchart LR
+    id1((This is the text in the circle))
 
 
 
