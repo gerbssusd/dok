@@ -502,6 +502,12 @@ image: /chart.png
 ---
 layout: image
 image: /chart.png
+backg
+---
+
+---
+layout: image
+image: /chart.png
 
 ---
 
