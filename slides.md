@@ -500,7 +500,7 @@ Don Horne, CC BY 4.0, via Wikimedia Commons
 
 flowchart LR
     id1((This is the text in the circle)) -->
-    id2((This is the text in the circle)) -->
+    id2((This is the text in the circle)) --> id3
     id3((This is the text in the circle))
     id4((This is the text in the circle))
     id5((This is the text in the circle)) -->
