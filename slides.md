@@ -500,7 +500,8 @@ Don Horne, CC BY 4.0, via Wikimedia Commons
 
 flowchart LR
 
-  a((x)) b((x))
+  a((x)) 
+b((x))
   c((x))
   d((x))
   e((x))
