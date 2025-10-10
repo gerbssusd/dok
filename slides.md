@@ -550,7 +550,7 @@ backgroundSize: contain
 
 **The TWO most important ideas**
 </div>
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-0">
+<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
 
 **The TWO most important ideas**
 </div>
