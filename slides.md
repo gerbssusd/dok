@@ -545,7 +545,7 @@ backgroundSize: contain
 **FOUR key ideas** 
 </div>
 </div>
-<div class="w-0% grid grid-cols-2 gap-4">
+<div class="w-60% grid grid-cols-2 gap-4">
 <div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
 
 **The TWO most important ideas**
