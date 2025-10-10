@@ -537,7 +537,7 @@ backgroundSize: contain
 **FOUR key ideas** 
 
 </div>
-</div>
+
 **The TWO most important ideas**
 | | |
 
