@@ -531,7 +531,7 @@ backgroundSize: contain
 
 # 421 Summarize
 
-**FOUR key ideas**
+**FOUR key ideas** 
 
 **The TWO most important ideas**
 | | |
