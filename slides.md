@@ -559,7 +559,7 @@ backgroundSize: contain
 
 **The ONE most important idea**
 </div>
-
+<div class="border-4 border-purple-500 rounded-lg p-4 pb-20">
 
 **Summary Paragraph: What did I learn?**
 
