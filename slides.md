@@ -533,7 +533,6 @@ backgroundSize: contain
 
 **FOUR key ideas**
 
-
 **The TWO most important ideas**
 | | |
 
