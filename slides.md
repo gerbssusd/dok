@@ -495,14 +495,17 @@ Don Horne, CC BY 4.0, via Wikimedia Commons
 </div>
 
 ---
+
 ```mermaid
-flowchart TD
-a(())
-b(())
-c(())
-d(())
-e(())
-f(())
+
+flowchart TB
+
+  a((x))
+  b((x))
+  c((x))
+  d((x))
+  e((x))
+  f((x))
 ```
 
 ---
