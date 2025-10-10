@@ -532,7 +532,7 @@ backgroundSize: contain
 # 421 Summarize
 
 <div class="grid grid-cols-4 gap-4">
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-0">
+<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
 **FOUR key ideas** 
 </div>
 <div class="border-4 border-purple-500 rounded-lg p-4 pb-20">
