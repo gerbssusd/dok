@@ -497,7 +497,7 @@ Don Horne, CC BY 4.0, via Wikimedia Commons
 ---
 
 ```mermaid
-mermaid.flowchartConfig = {
+flowchartConfig = {
     width: 100%
 }
 
