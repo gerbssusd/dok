@@ -530,7 +530,7 @@ backgroundSize: contain
 ---
 
 ---
-layout: cent
+layout: center
 # 421 Summarize
 
 <div class="grid grid-cols-4 gap-4">
