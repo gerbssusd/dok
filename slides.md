@@ -292,7 +292,7 @@ class: mt-40
 **A Good Night's sleep is essential to good health**
 
 </div>
-<div class= style="margin:auto; height:60%; width:76%; border-bottom: grey 3px solid; border-right: grey 3px solid; border-left: grey 3px solid">
+<div class=" style="margin:auto; height:60%; width:76%; border-bottom: grey 3px solid; border-right: grey 3px solid; border-left: grey 3px solid">
 
 - Our bodies heal while we sleep
 - Sleep gives us energy to get through each day
