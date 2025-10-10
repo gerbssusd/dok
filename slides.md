@@ -213,7 +213,7 @@ flowchart LR
   e1([Other items in this category])-->b1
   E2(Examples)-->b2
   b1(Category the term belongs to) -->
-      b2@{shape: bang, label: term}
+      b2@{shape: rect, label: term}
      b2 -->d1@{shape: rect, label: attribute1} -->a1
      b2 -->d2[attribute2] -->a1 
      b2 -->d3[attribute3] -->a1 
