@@ -546,7 +546,7 @@ backgroundSize: contain
 </div>
 </div>
 <div class="grid grid-cols-2 gap-4">
-<div class="60border-4 border-purple-500 rounded-lg p-4 pb-10">
+<div class="60%border-4 border-purple-500 rounded-lg p-4 pb-10">
 
 **The TWO most important ideas**
 </div>
