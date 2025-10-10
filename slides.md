@@ -502,7 +502,7 @@ image: /chart.png
 ---
 layout: image
 image: /chart.png
-background
+background: 
 ---
 
 ---
