@@ -501,6 +501,12 @@ image: /chart.png
 
 ---
 layout: image
+image: /chart2.png
+backgroundSize: contain
+---
+
+---
+layout: image
 image: /chart.png
 backgroundSize: contain
 ---
