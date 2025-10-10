@@ -495,8 +495,9 @@ Don Horne, CC BY 4.0, via Wikimedia Commons
 </div>
 
 ---
-
-```
+layout: image
+image: /chart.png
+---
 
 ---
 
