@@ -498,14 +498,9 @@ Don Horne, CC BY 4.0, via Wikimedia Commons
 
 ```mermaid
 
-flowchart RL
+flowchart LR
+   a --> b & c--> d
 
-  a((x)) 
-  b((x))
-  c((x))
-  d((x))
-  e((x))
-  f((x))
 ```
 
 ---
