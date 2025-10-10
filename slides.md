@@ -498,17 +498,12 @@ Don Horne, CC BY 4.0, via Wikimedia Commons
 
 ```mermaid {scale: .60}
 
-flowchart LR
-    id1((.)) -->
-    id2((.2)) --> & 
-id3((This is the text in the circle))
-       id3.1((This is the text in the circle))-->
-       id3.2((This is the text in the circle))-->id4
-   id2 --> id4((This is the text in the circle)) 
-    id5((This is the text in the circle)) -->
-      id6((This is the text in the circle))--> id4 
-   id6--> id7((This is the text in the circle))
-       id8((vv))
+fflowchart TD
+    A[Christmas] -->|Get money| B(Go shopping)
+    B --> C{Let me think}
+    C -->|One| D[Laptop]
+    C -->|Two| E[iPhone]
+    C -->|Three| F[fa:fa-car Car]
 
 ```
 
