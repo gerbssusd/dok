@@ -208,33 +208,17 @@ Nonexamples
 
 
 ```mermaid
-flowchart TB
-    subgraph one 
-     direction TB
-     a1@{ shape: card, label: Detailed Definition}
-     end
-    subgraph two
-     direction TB
-     d1[attribute1] -->
-     d2[attribute2] -->
-     d3[attribute3] -->
-     d4[attribute4] 
-     end
-    subgraph three
-      direction TB
-        b1(Category the term belongs to) -->
-        b2[term]
-        end
-    subgraph four
-        e1((Other items in this category))
-        e2(Examples) -->b2
-        end
 
-
-
-
-
-
+flowchart LR
+  e1([Other items in this category])-->b1
+  E2(Examples)-->b2
+  b1(Category the term belongs to) -->
+      b2@{shape: bang, label: term}
+     b2 -->d1@{shape: rect, label: attribute1} -->a1
+     b2 -->d2[attribute2] -->a1 
+     b2 -->d3[attribute3] -->a1 
+     b2 -->d4[attribute4] -->a1
+     a1@{ shape: flag, label: Detailed Definition}
 ```
 
 ---
@@ -255,22 +239,25 @@ Da Vinci's Study of the Graduations of Shadows on Spheres
 - Be sure to include "Because..."
 
 ---
-class: text-center
+class: mt-50
 ---
 
-# I see _(topic)_ as a study in _(concept)_ because... ______
+# I see _(topic)_ as a study in _(concept)_ because... ____
 
+---
+class: mt-40
 ---
 
 # Adding Up the Facts
 
 <div class="grid grid-cols-2 gap-8">
-<div>
 
+<div>
 **Scaffolds facts leading students to larger concepts, connections and relationships forming big ideas.**
 
 </div>
-<div>
+
+<div class="mt--20">
 
 - Identify concept
 - Generate factual statements that will lead students to understand umbrella concepts
@@ -284,28 +271,39 @@ class: text-center
 
 # Adding Up The Facts
 
-**Fact A**
-**Fact B**
-**Fact C**
-**Fact D**
-
-↓
+<div style="height:60%; width:100%; border-top: grey 3px solid; border-right: grey 3px solid; border-left: grey 3px solid;">
+  <ul>
+    <li style="padding-top: 1em">Fact A:</li>
+    <li style="padding-top: 2em">Fact B:</li></br>
+    <li style="padding-top: 2em">Fact C:</li></br>
+    <li style="padding-top: 2em">Fact D:</li></br>
+  </ul>
+</div>
+<div style="height:20%; width:100%; border: grey 3px solid;">
 
 **Conclusion:**
+</div>
 
 ---
 
 # Big T Organizer
+<div style="text-align: center; height:20%; width:100%; border:grey 3px solid;">
 
 **A Good Night's sleep is essential to good health**
+
+</div>
+<div style="margin:auto; height:60%; width:76%; border-bottom: grey 3px solid; border-right: grey 3px solid; border-left: grey 3px solid">
 
 - Our bodies heal while we sleep
 - Sleep gives us energy to get through each day
 - Children need lots of sleep so their bones and muscles can grow.
 - Dreams help our brains sort through our memories and thoughts
 
----
+</div>
 
+---
+class: mt-40
+---
 # Connect the Concepts
 
 <div class="grid grid-cols-2 gap-8">
@@ -314,7 +312,7 @@ class: text-center
 **Helps students understand the relationships between and among concepts**
 
 </div>
-<div>
+<div class="mt--40">
 
 - Ask students to think about the relationship between two or more concepts
 - Provide learning experiences and materials that illustrate and allow students to discover the nature of relationships
@@ -376,12 +374,12 @@ Franz van Duns, CC BY-SA 4.0, via Wikimedia Commons
 ---
 
 <div class="grid grid-cols-2 gap-4">
-<div>
+<div class="border-4 border-purple-500 rounded-lg p-4 pb-40">
 
 # Facts
 
 </div>
-<div>
+<div class="border-4 border-purple-500 rounded-lg p-4">
 
 # Feelings and Reactions
 
@@ -389,12 +387,12 @@ Franz van Duns, CC BY-SA 4.0, via Wikimedia Commons
 </div>
 
 <div class="grid grid-cols-2 gap-4 mt-4">
-<div>
+<div class="border-4 border-purple-500 rounded-lg p-4 pb-40">
 
 # Questions
 
 </div>
-<div>
+<div class="border-4 border-purple-500 rounded-lg p-4 pb-40">
 
 # Connections
 
@@ -424,14 +422,26 @@ Franz van Duns, CC BY-SA 4.0, via Wikimedia Commons
 ---
 
 # Math Notes Organizer
-
-| The Facts | The Steps | The Solution |
-|-----------|-----------|--------------|
-| | | |
-
-| The Question | The Diagram |
-|--------------|-------------|
-| | |
+<div class="grid grid-cols-3 gap-4">
+<div class="border-4 border-purple-500 rounded-lg p-4 pb-40">
+The Facts
+</div>
+<div class="border-4 border-purple-500 rounded-lg p-4 pb-40">
+The Steps
+</div>
+<div class="border-t-4 border-l-4 border-r-4 border-purple-500 rounded-lg p-4 pb-40">
+The Solution
+</div></div>
+<div class="grid grid-cols-3 gap-4">
+<div class="border-4 border-purple-500 rounded-lg p-4 pb-40 mt-4">
+The Question
+</div>
+<div class="border-4 border-purple-500 rounded-lg p-4 pb-40 mt-4">
+The Diagram
+</div>
+<div class="border-b-4 border-l-4 border-r-4 border-purple-500 rounded-lg p-4 pb-40">
+</div>
+</div>
 
 ---
 
@@ -474,7 +484,8 @@ Franz van Duns, CC BY-SA 4.0, via Wikimedia Commons
 
 ---
 layout: image-right
-image: /27.png
+image: /27.jpg
+class: mt-40
 ---
 
 # Webbing
