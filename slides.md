@@ -509,7 +509,7 @@ flowchart LR
     id6((This is the text in the circle)) -->
     id7((This is the text in the circle))
        id7.1((This is the text in the circle))-->
-       id.2((This is the text in the circle))-->id4
+       id7.2((This is the text in the circle))-->id4
 
 ```
 
