@@ -500,6 +500,12 @@ image: /chart.png
 ---
 
 ---
+layout: image
+image: /chart.png
+
+---
+
+---
 
 # 421 Summarize
 
