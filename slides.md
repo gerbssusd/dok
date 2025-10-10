@@ -560,6 +560,7 @@ backgroundSize: contain
 **The ONE most important idea**
 </div>
 
+
 **Summary Paragraph: What did I learn?**
 
 ---
