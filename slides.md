@@ -542,7 +542,7 @@ backgroundSize: contain
 
 
 **The ONE most important idea**
-| |
+
 
 **Summary Paragraph: What did I learn?**
 
