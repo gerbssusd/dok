@@ -496,7 +496,7 @@ Don Horne, CC BY 4.0, via Wikimedia Commons
 
 ---
 
-```mermaid {scale: .0}
+```mermaid {scale: .70}
 
 mindmap
   root((mindmap))
