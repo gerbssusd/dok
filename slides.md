@@ -554,8 +554,6 @@ backgroundSize: contain
 
 **Summary Paragraph: What did I learn?**
 
-</div>
-
 ---
 
 # AWSOME Summaries
