@@ -495,7 +495,7 @@ Don Horne, CC BY 4.0, via Wikimedia Commons
 </div>
 
 ---
-layout:image
+layout: image
 image: /chart2.png
 backgroundSize: contain
 ---
