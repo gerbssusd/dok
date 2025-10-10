@@ -271,7 +271,7 @@ class: mt-40
 
 # Adding Up The Facts
 
-<div class=p style="height:60%; width:100%; border-top: grey 3px solid; border-right: grey 3px solid; border-left: grey 3px solid;">
+<div class=p-4 style="height:60%; width:100%; border-top: grey 3px solid; border-right: grey 3px solid; border-left: grey 3px solid;">
   <ul>
     <li style="padding-top: 1em">Fact A:</li>
     <li style="padding-top: 2em">Fact B:</li></br>
