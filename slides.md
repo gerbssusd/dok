@@ -530,6 +530,43 @@ backgroundSize: contain
 ---
 
 ---
+layout: cent
+# 421 Summarize
+
+<div class="grid grid-cols-4 gap-4">
+<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
+**FOUR key ideas** 
+</div>
+<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
+**FOUR key ideas** 
+</div>
+<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
+**FOUR key ideas** 
+</div>
+<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
+**FOUR key ideas** 
+</div>
+</div>
+<div class=" center w-60% grid grid-cols-2 gap-4">
+<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
+
+**The TWO most important ideas**
+</div>
+<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
+
+**The TWO most important ideas**
+</div>
+</div>
+<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
+
+**The ONE most important idea**
+</div>
+<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
+
+**Summary Paragraph: What did I learn?**
+</div>
+
+---
 layout: 
 # 421 Summarize
 
