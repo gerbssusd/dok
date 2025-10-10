@@ -502,7 +502,13 @@ image: /chart.png
 ---
 layout: image
 image: /chart.png
-backgroundSize: contai
+backgroundSize: contain
+---
+
+---
+layout: image
+image: /chart.png
+backgroundSize: con
 ---
 
 ---
