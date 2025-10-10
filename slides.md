@@ -502,6 +502,84 @@ image: /chart.png
 ---
 layout: image
 image: /chart.png
+backgroundSize: 40%
+---
+
+---
+layout: image
+image: /chart.png
+backgroundSize: 0%
+---
+
+---
+layout: image
+image: /chart.png
+backgroundSize: 60%
+---
+
+---
+layout: image
+image: /chart.png
+backgroundSize: 
+---
+
+---
+layout: image
+image: /chart.png
+backgroundSize: contai
+---
+
+---
+layout: image
+image: /chart.png
+backgroundSize: contain
+---
+
+---
+layout: image
+image: /chart.png
+backgroundSi
+---
+
+---
+layout: image
+image: /chart.png
+backgrou
+---
+
+---
+layout: image
+image: /chart.png
+b
+---
+
+---
+layout: image
+image: /chart.png
+
+---
+
+---
+layout: image
+image: /chart.png
+backgroundSize: contain
+---
+
+---
+layout: image
+image: /chart.png
+backgroundSize: 
+---
+
+---
+layout: image
+image: /chart.png
+backgroundS
+---
+
+---
+layout: image
+image: /chart.png
 background: 
 ---
 
