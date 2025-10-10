@@ -502,6 +502,12 @@ image: /chart.png
 ---
 layout: image
 image: /chart.png
+backgroundSize: 10%
+---
+
+---
+layout: image
+image: /chart.png
 backgroundSize: 50%
 ---
 
