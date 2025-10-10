@@ -496,7 +496,7 @@ Don Horne, CC BY 4.0, via Wikimedia Commons
 
 ---
 
-```mermaid {scale: .70}
+```mermaid {scale: .0}
 
 flowchart LR
     id1((This is the text in the circle)) -->
