@@ -536,7 +536,7 @@ backgroundSize: contain
 
 **FOUR key ideas** 
 <div class="border-4 border-purple-500 rounded-lg p-4 pb-20">
-
+<
 </div>
 
 **The TWO most important ideas**
