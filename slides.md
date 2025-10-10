@@ -497,9 +497,7 @@ Don Horne, CC BY 4.0, via Wikimedia Commons
 ---
 
 ```mermaid
-mermaid.flowchartConfig = {
-    width: 100%
-}
+
 
 flowchart LR
    a --> b & c--> d
