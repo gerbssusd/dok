@@ -502,6 +502,12 @@ image: /chart.png
 ---
 layout: image
 image: /chart.png
+backgroundSize: contai
+---
+
+---
+layout: image
+image: /chart.png
 backgroundSize:
 ---
 
