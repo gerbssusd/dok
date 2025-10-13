@@ -27,6 +27,7 @@ https://purl.org/nga/collection/artobject/57501, CC0, via Wikimedia Commons
 
 ---
 layout: image-right
+class: rotate-20 mt-40
 image: /2_2.png
 backgroundSize: contain
 ---
@@ -507,7 +508,7 @@ backgroundSize: contain
 ---
 
 
-
+style="width: 0; height: 0; border-left: 200px solid transparent; border-right: 200px solid transparent; border-bottom: 300px solid blue;"
 ---
 
 # 421 Summarize
@@ -534,406 +535,32 @@ layout: center
 # 421 Summarize
 
 <div class="grid grid-cols-4 gap-4">
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
+<div class="border-4 border-purple-500 rounded-lg p-4 pb-6">
+
 **FOUR key ideas** 
+
 </div>
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
-**FOUR key ideas** 
+<div class="border-4 border-purple-500 rounded-lg p-4 pb-6">
 </div>
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
-**FOUR key ideas** 
+<div class="border-4 border-purple-500 rounded-lg p-4 pb-6">
 </div>
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
-**FOUR key ideas** 
+<div class="border-4 border-purple-500 rounded-lg p-4 pb-6">
 </div>
 </div>
-<div class=" center w-60% grid grid-cols-2 gap-4">
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
+<div class="w-60% grid grid-cols-2 gap-4 mt-4" style="margin-left: auto; margin-right: auto">
+<div class="border-4 border-purple-500 rounded-lg p-4 pb-6">
 
 **The TWO most important ideas**
-</div>
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
 
-**The TWO most important ideas**
+</div>
+<div class="border-4 border-purple-500 rounded-lg p-4 pb-6">
 </div>
 </div>
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
+<div class="border-4 border-purple-500 rounded-lg p-4 pb-6 mt-4">
 
 **The ONE most important idea**
 </div>
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
-
-**Summary Paragraph: What did I learn?**
-</div>
-
----
-layout: center
---
-# 421 Summarize
-
-<div class="grid grid-cols-4 gap-4">
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
-**FOUR key ideas** 
-</div>
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
-**FOUR key ideas** 
-</div>
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
-**FOUR key ideas** 
-</div>
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
-**FOUR key ideas** 
-</div>
-</div>
-<div class=" center w-60% grid grid-cols-2 gap-4">
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
-
-**The TWO most important ideas**
-</div>
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
-
-**The TWO most important ideas**
-</div>
-</div>
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
-
-**The ONE most important idea**
-</div>
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
-
-**Summary Paragraph: What did I learn?**
-</div>
-
----
-layout: center
--
-# 421 Summarize
-
-<div class="grid grid-cols-4 gap-4">
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
-**FOUR key ideas** 
-</div>
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
-**FOUR key ideas** 
-</div>
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
-**FOUR key ideas** 
-</div>
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
-**FOUR key ideas** 
-</div>
-</div>
-<div class=" center w-60% grid grid-cols-2 gap-4">
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
-
-**The TWO most important ideas**
-</div>
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
-
-**The TWO most important ideas**
-</div>
-</div>
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
-
-**The ONE most important idea**
-</div>
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
-
-**Summary Paragraph: What did I learn?**
-</div>
-
----
-layout: center
-
-# 421 Summarize
-
-<div class="grid grid-cols-4 gap-4">
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
-**FOUR key ideas** 
-</div>
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
-**FOUR key ideas** 
-</div>
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
-**FOUR key ideas** 
-</div>
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
-**FOUR key ideas** 
-</div>
-</div>
-<div class=" center w-60% grid grid-cols-2 gap-4">
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
-
-**The TWO most important ideas**
-</div>
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
-
-**The TWO most important ideas**
-</div>
-</div>
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
-
-**The ONE most important idea**
-</div>
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
-
-**Summary Paragraph: What did I learn?**
-</div>
-
----
-layout: center
-# 421 Summarize
-
-<div class="grid grid-cols-4 gap-4">
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
-**FOUR key ideas** 
-</div>
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
-**FOUR key ideas** 
-</div>
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
-**FOUR key ideas** 
-</div>
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
-**FOUR key ideas** 
-</div>
-</div>
-<div class=" center w-60% grid grid-cols-2 gap-4">
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
-
-**The TWO most important ideas**
-</div>
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
-
-**The TWO most important ideas**
-</div>
-</div>
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
-
-**The ONE most important idea**
-</div>
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
-
-**Summary Paragraph: What did I learn?**
-</div>
-
----
-layout: 
-# 421 Summarize
-
-<div class="grid grid-cols-4 gap-4">
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
-**FOUR key ideas** 
-</div>
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
-**FOUR key ideas** 
-</div>
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
-**FOUR key ideas** 
-</div>
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
-**FOUR key ideas** 
-</div>
-</div>
-<div class=" center w-60% grid grid-cols-2 gap-4">
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
-
-**The TWO most important ideas**
-</div>
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
-
-**The TWO most important ideas**
-</div>
-</div>
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
-
-**The ONE most important idea**
-</div>
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
-
-**Summary Paragraph: What did I learn?**
-</div>
-
----
-layout:
-# 421 Summarize
-
-<div class="grid grid-cols-4 gap-4">
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
-**FOUR key ideas** 
-</div>
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
-**FOUR key ideas** 
-</div>
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
-**FOUR key ideas** 
-</div>
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
-**FOUR key ideas** 
-</div>
-</div>
-<div class=" center w-60% grid grid-cols-2 gap-4">
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
-
-**The TWO most important ideas**
-</div>
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
-
-**The TWO most important ideas**
-</div>
-</div>
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
-
-**The ONE most important idea**
-</div>
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
-
-**Summary Paragraph: What did I learn?**
-</div>
-
----
-layout
-# 421 Summarize
-
-<div class="grid grid-cols-4 gap-4">
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
-**FOUR key ideas** 
-</div>
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
-**FOUR key ideas** 
-</div>
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
-**FOUR key ideas** 
-</div>
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
-**FOUR key ideas** 
-</div>
-</div>
-<div class=" center w-60% grid grid-cols-2 gap-4">
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
-
-**The TWO most important ideas**
-</div>
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
-
-**The TWO most important ideas**
-</div>
-</div>
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
-
-**The ONE most important idea**
-</div>
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
-
-**Summary Paragraph: What did I learn?**
-</div>
-
----
-lay
-# 421 Summarize
-
-<div class="grid grid-cols-4 gap-4">
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
-**FOUR key ideas** 
-</div>
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
-**FOUR key ideas** 
-</div>
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
-**FOUR key ideas** 
-</div>
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
-**FOUR key ideas** 
-</div>
-</div>
-<div class=" center w-60% grid grid-cols-2 gap-4">
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
-
-**The TWO most important ideas**
-</div>
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
-
-**The TWO most important ideas**
-</div>
-</div>
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
-
-**The ONE most important idea**
-</div>
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
-
-**Summary Paragraph: What did I learn?**
-</div>
-
----
-
-# 421 Summarize
-
-<div class="grid grid-cols-4 gap-4">
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
-**FOUR key ideas** 
-</div>
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
-**FOUR key ideas** 
-</div>
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
-**FOUR key ideas** 
-</div>
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
-**FOUR key ideas** 
-</div>
-</div>
-<div class=" center w-60% grid grid-cols-2 gap-4">
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
-
-**The TWO most important ideas**
-</div>
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
-
-**The TWO most important ideas**
-</div>
-</div>
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
-
-**The ONE most important idea**
-</div>
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
-
-**Summary Paragraph: What did I learn?**
-</div>
-
----
-# 421 Summarize
-
-<div class="grid grid-cols-4 gap-4">
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
-**FOUR key ideas** 
-</div>
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
-**FOUR key ideas** 
-</div>
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
-**FOUR key ideas** 
-</div>
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
-**FOUR key ideas** 
-</div>
-</div>
-<div class=" center w-60% grid grid-cols-2 gap-4">
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
-
-**The TWO most important ideas**
-</div>
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
-
-**The TWO most important ideas**
-</div>
-</div>
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
-
-**The ONE most important idea**
-</div>
-<div class="border-4 border-purple-500 rounded-lg p-4 pb-10">
+<div class="border-4 border-purple-500 rounded-lg p-4 pb-6 mt-4">
 
 **Summary Paragraph: What did I learn?**
 </div>
@@ -953,6 +580,7 @@ lay
 ---
 layout: image-left
 image: /32.png
+class: mt-40
 ---
 
 # Comparing
@@ -965,50 +593,177 @@ NASA and ESA, CC BY-SA 4.0, via Wikimedia Commons
 
 # Compare and Conclude Matrix
 
-| Criteria | | | | | | |
-|----------|---|---|---|---|---|---|
-| Items to be compared | | | | | | |
-| | | | | | | |
-| | | | | | | |
-| | | | | | | |
+<div class="grid grid-cols-6 bg-blue-200">
+<div class="border-4 border-purple-500">
+<div class= "bg-blue-200" style="text-align:right;"> Criteria</div>
+<div class= "bg-gray-200" style="text-align:left;">Items to be compared</div>
+</div>
+<div class="border-4 border-purple-500">
+</div>
+<div class="border-4 border-purple-500">
+</div>
+<div class="border-4 border-purple-500">
+</div>
+<div class="border-4 border-purple-500">
+</div>
+<div class="border-4 border-purple-500">
+</div>
+</div>
+<div class="grid grid-cols-6">
+<div class="border-4 border-purple-500 bg-gray-200 p-7">
+</div>
+<div class="border-4 border-purple-500">
+</div>
+<div class="border-4 border-purple-500">
+</div>
+<div class="border-4 border-purple-500">
+</div>
+<div class="border-4 border-purple-500">
+</div>
+<div class="border-4 border-purple-500">
+</div>
+</div>
+<div class="grid grid-cols-6">
+<div class="border-4 border-purple-500 bg-gray-200 p-7">
+</div>
+<div class="border-4 border-purple-500">
+</div>
+<div class="border-4 border-purple-500">
+</div>
+<div class="border-4 border-purple-500">
+</div>
+<div class="border-4 border-purple-500">
+</div>
+<div class="border-4 border-purple-500">
+</div>
+</div>
+<div class="grid grid-cols-6">
+<div class="border-4 border-purple-500 bg-gray-200 p-7">
+</div>
+<div class="border-4 border-purple-500">
+</div>
+<div class="border-4 border-purple-500">
+</div>
+<div class="border-4 border-purple-500">
+</div>
+<div class="border-4 border-purple-500">
+</div>
+<div class="border-4 border-purple-500">
+</div>
+</div>
 
 **Conclusion:**
+<div class="border-4 border-purple-500 bg-gray-200 p-7">
+</div>
 
 ---
 
 # Comparison Matrix
 
-| Dimensions for Comparison | Unique Characteristics | Similar to Both | Unique Characteristics |
-|---------------------------|----------------------|-----------------|----------------------|
-| | | | |
-| | | | |
-| | | | |
+<div class="grid grid-cols-4 bg-gray-200">
+<div class="border-4 border-purple-500 text-center">Dimensions for Comparison
+</div>
+<div class="border-4 border-purple-500 text-center">Unique Characteristics
+</div>
+<div class="border-4 border-purple-500 text-center">Similar to Both
+</div>
+<div class="border-4 border-purple-500 text-center">Unique Characteristics
+</div>
+</div>
+<div class="grid grid-cols-4">
+<div class="border-4 border-purple-500 p-7">
+</div>
+<div class="border-4 border-purple-500 bg-cyan-200 ">
+</div>
+<div class="border-4 border-purple-500 bg-pink-200 ">
+</div>
+<div class="border-4 border-purple-500">
+</div>
+</div>
+<div class="grid grid-cols-4">
+<div class="border-4 border-purple-500 p-7">
+</div>
+<div class="border-4 border-purple-500 bg-cyan-200 ">
+</div>
+<div class="border-4 border-purple-500 bg-pink-200 ">
+</div>
+<div class="border-4 border-purple-500">
+</div>
+</div>
+<div class="grid grid-cols-4">
+<div class="border-4 border-purple-500 p-7">
+</div>
+<div class="border-4 border-purple-500 bg-cyan-200 ">
+</div>
+<div class="border-4 border-purple-500 bg-pink-200 ">
+</div>
+<div class="border-4 border-purple-500">
+</div>
+</div>
+<div class="grid grid-cols-4">
+<div class="border-4 border-purple-500 p-7">
+</div>
+<div class="border-4 border-purple-500 bg-cyan-200 ">
+</div>
+<div class="border-4 border-purple-500 bg-pink-200 ">
+</div>
+<div class="border-4 border-purple-500">
+</div>
+</div>
+<div class="grid grid-cols-4">
+<div class="border-4 border-purple-500 p-7">
+</div>
+<div class="border-4 border-purple-500 bg-cyan-200 ">
+</div>
+<div class="border-4 border-purple-500 bg-pink-200 ">
+</div>
+<div class="border-4 border-purple-500">
+</div>
+</div>
 
 ---
 layout: image-left
 image: /35.png
+class: center
 ---
 
 # Top Hat Organizer
 
-<div class="grid grid-cols-2 gap-4">
-<div>
-
-| Differences | |
-|-------------|-------------|
-| Unique to _____ | Unique to _____ |
-| | |
-| **Similarities** |
-
+<div class="w-75" style="margin-left:auto; margin-right:auto;">
+<div class="border-4 border-purple-500 text-center"> **Differences**
 </div>
-<div>
+<div class="grid grid-cols-2 bg-gray-200">
 
-<div class="text-xs opacity-50">
+<div class="border-4 border-purple-500">Unique to ________
+</div>
+<div class="border-4 border-purple-500">Unique to ________
+</div>
+</div>
+<div class="grid grid-cols-2">
+<div class="border-4 border-purple-500 text-center p-7"></div>
+<div class="border-4 border-purple-500 text-center p-7"></div>
+</div>
+<div class="grid grid-cols-2">
+<div class="border-4 border-purple-500 text-center p-7"></div>
+<div class="border-4 border-purple-500 text-center p-7"></div>
+</div>
+<div class="grid grid-cols-2">
+<div class="border-4 border-purple-500 text-center p-7"></div>
+<div class="border-4 border-purple-500 text-center p-7"></div>
+</div>
+</div>
+
+<div class="border-4 border-purple-500 text-center"> **Similarities**
+</div>
+<div class="border-4 border-purple-500 text-center p-7">
+</div>
+
+<div class="text-xs opacity-50 mt-10">
 Everaldo Coelho (YellowIcon);, LGPL, via Wikimedia Commons
 </div>
 
-</div>
-</div>
+
+
 
 ---
 layout: image-left
@@ -1025,37 +780,62 @@ Louvre Museum, Public domain, via Wikimedia Commons
 
 # Four Reading Stances
 
+<div style="max-height: 500px; overflow-y: auto;
+  padding-right: 15px; padding-bottom: 50px">
+
 | Stances | Fiction | Nonfiction |
 |---------|---------|------------|
 | **Literal** | • What is this text about?<br>• Where is the setting<br>• When did this piece take place<br>• Who are the major and minor characters?<br>• What is the situation or problem?<br>• What are the most important events? | • What is the topic or the gist of this text?<br>• What are the key facts?<br>• What is the most important information conveyed?<br>• What did you learn from this? |
 | **Interpretive** | • What is the meaning of ____?<br>• What is the implicit theme or message?<br>• What is the significance of [the title, an event, a quote, etc.]?<br>• How would you describe the tone or mood?<br>• What traits do the characters exhibit? | • What is the meaning of ____?<br>• What conclusions can you draw from this text?<br>• What is the [attitude, philosophy, political position, etc.] of the author?<br>• How does this piece compare to [one or more related works]? |
 
----
 
-# Four Reading Stances (cont.)
 
 | Stances | Fiction | Nonfiction |
 |---------|---------|------------|
 | **Personal** | • How is this like something from your life?<br>• How do you relate to this theme?<br>• What did this make you think or feel?<br>• What would you have done if you were the main character?<br>• What questions would you like to ask the author/character(s)? | • What did this make you think?<br>• Do you agree with the author?<br>• Are you convinced? Persuaded?<br>• How did it influence your thinking?<br>• What additional information is needed?<br>• What questions would you like to ask the author? |
 | **Critical** | • What are the greatest strengths of this piece? The greatest weaknesses?<br>• Imagine you are a literary critic: How effectively did the author convey the theme? Describe the setting? Develop characters?<br>• How effectively did the author use [flashbacks, irony, symbolism, etc]?<br>• Would you recommend this to others? | • What are the greatest strengths of this piece? The greatest weaknesses?<br>• How clear was this piece? How accurate? How complete? How unbiased?<br>• How well does the organizational structure work?<br>• How effectively did the author achieve his or her purpose? |
+</div>
 
 ---
 
 # Reading for Meaning Organizer
 
-| Evidence That Supports | Statements | Evidence That Refutes |
-|------------------------|------------|----------------------|
-| | | |
-| | | |
-| | | |
+<div class="grid grid-cols-3">
+<div class="border-4 border-purple-500 text-center p-7">Evidence That Supports</div>
+<div class="border-4 border-purple-500 text-center p-7">Statements</div>
+<div class="border-4 border-purple-500 text-center p-7">Evidence That Refutes</div>
+</div>
+<div class="grid grid-cols-3">
+<div class="border-4 border-purple-500 text-center p-7"></div>
+<div class="border-4 border-purple-500 text-center p-7"></div>
+<div class="border-4 border-purple-500 text-center p-7"></div>
+</div>
+<div class="grid grid-cols-3">
+<div class="border-4 border-purple-500 text-center p-7"></div>
+<div class="border-4 border-purple-500 text-center p-7"></div>
+<div class="border-4 border-purple-500 text-center p-7"></div>
+</div>
+<div class="grid grid-cols-3">
+<div class="border-4 border-purple-500 text-center p-7"></div>
+<div class="border-4 border-purple-500 text-center p-7"></div>
+<div class="border-4 border-purple-500 text-center p-7"></div>
+</div>
+<div class="grid grid-cols-3">
+<div class="border-4 border-purple-500 text-center p-7"></div>
+<div class="border-4 border-purple-500 text-center p-7"></div>
+<div class="border-4 border-purple-500 text-center p-7"></div>
+</div>
 
 ---
 layout: image-left
 image: /40.jpg
 ---
 
+<div class=mt-40> 
+
 # Visualizing And Graphic Representation
 
+</div>
 <div class="text-xs opacity-50 absolute bottom-4 right-4">
 National Archives and Records Administration, Public domain, via Wikimedia Commons
 </div>
@@ -1065,56 +845,158 @@ National Archives and Records Administration, Public domain, via Wikimedia Commo
 # Advance Organizer
 
 A visual hierarchical structure showing main topic branching into three major subtopics.
+<div class="border-4 border-purple-500 text-center rounded-lg p-7"></div>
+<div class="grid grid-cols-3 gap-4 mt-4">
+<div class="border-4 border-purple-500 rounded-lg p-4 pb-60"></div>
+<div class="border-4 border-purple-500 rounded-lg p-4 pb-60"></div>
+<div class="border-4 border-purple-500 rounded-lg p-4 pb-60"></div>
+</div>
 
 ---
 
 # Mind's Eye Organizer
 
-| Key Words: | |
-|------------|------------|
-| Name of Text: | Author: |
-| Picture | Feelings or Personal Connections |
-| Questions: | Predictions: |
+<div class="border-4 border-purple-500 rounded-lg p-4">Key Words:</div>
+<div class="grid grid-cols-2 gap-2 mt-4">
+<div class="border-4 border-purple-500 rounded-lg p-1 pb-15">Name of Text:</div>
+<div class="border-4 border-purple-500 rounded-lg p-1 pb-15">Author: </div>
+<div class="border-4 border-purple-500 rounded-lg p-1 pb-15">Picture:</div>
+<div class="border-4 border-purple-500 rounded-lg p-1 pb-15">Feelings or Personal Connections: </div>
+<div class="border-4 border-purple-500 rounded-lg p-1 pb-15">Questions:</div>
+<div class="border-4 border-purple-500 rounded-lg p-1 pb-15">Predictions:</div>
+</div>
 
 ---
+layout: two-cols
+---
+
+<div mt-40>
 
 # Perspective Chart
 
 A visual showing a **Topic or Issue** in the center with four different perspectives radiating outward.
+</div>
+
+::right::
+
+<div style="position:relative;width:400px;height:400px;
+background:radial-gradient(circle at center,#bcd6f1 0%,#6fa3d5 100%);
+border:2px solid #000;box-sizing:border-box;
+display:flex;justify-content:center;align-items:center;">
+
+  <!-- Inner frame -->
+  <div style="position:absolute;top:30px;left:30px;right:30px;bottom:30px;
+  border:2px solid #000;"></div>
+
+  <!-- Diagonal lines -->
+  <div style="position:absolute;width:2px;height:100%;background:transparent;">
+    <div style="content:'';position:absolute;width:2px;height:100%;
+    background:black;transform-origin:center;transform:rotate(45deg);
+    top:0;left:50%;"></div>
+  </div>
+  <div style="position:absolute;width:2px;height:100%;background:transparent;">
+    <div style="content:'';position:absolute;width:2px;height:100%;
+    background:black;transform-origin:center;transform:rotate(-45deg);
+    top:0;left:50%;"></div>
+  </div>
+
+  <!-- Center box -->
+  <div style="background:white;border:2px solid #000;
+  padding:10px 20px;font-family:sans-serif;text-align:center;z-index:2;">
+    Topic or Issue:
+  </div>
+</div>
 
 ---
 
 # Split Screen Notes
 
-| | Sketch | Big Ideas and Important Details |
-|---|--------|--------------------------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
+<div class="flex">
+<div class="flex-grow-0 border-4 border-purple-500 p-1 pb-10 w-20">
+</div>
+<div class="flex-grow-5 border-4 border-purple-500 pb-10 text-center">Sketch</div>
+<div class="flex-grow-2 border-4 border-purple-500 pb-10 text-center">Big Ideas and Important Details</div>
+</div>
+<div class="flex">
+<div class="flex-grow-0 border-4 border-purple-500 p-1 pb-10 w-20 text-center">
+
+# 1
+</div>
+<div class="flex-grow-5 border-4 border-purple-500 pb-10"></div>
+<div class="flex-grow-5 border-4 border-purple-500 pb-10"></div>
+</div>
+<div class="flex">
+<div class="flex-grow-0 border-4 border-purple-500 p-1 pb-10 w-20 text-center">
+
+# 2
+</div>
+<div class="flex-grow-5 border-4 border-purple-500 pb-10"></div>
+<div class="flex-grow-5 border-4 border-purple-500 pb-10"></div>
+</div>
+<div class="flex">
+<div class="flex-grow-0 border-4 border-purple-500 p-1 pb-10 w-20 text-center">
+
+# 3
+</div>
+<div class="flex-grow-5 border-4 border-purple-500 pb-15"></div>
+<div class="flex-grow-5 border-4 border-purple-500 pb-15"></div>
+</div>
 
 ---
 
 # Story Map
 
-**Who are the main CHARACTERS? Briefly describe them.**
-
-**What is the SETTING? Describe where and when the story takes place.**
-
-| What is the problem or CONFLICT? | What is the sequence of EVENTS? (First, next, then...) |
-|----------------------------------|---------------------------------------------------------|
-| How does the problem or conflict get resolved? (RESOLUTION) | |
+<div class="border-4 border-purple-500 rounded-lg p-1">Who are the main CHARACTERS? Briefly describe them.</div>
+<div class="border-4 border-purple-500 rounded-lg p-1 mt-4">What is the SETTING? Describe where and when the story takes place..</div>
+<div class="grid grid-cols-2 gap-4 mt-4">
+<div class="border-4 border-purple-500 gap-4 rounded-lg p-1 pb-15"> What is the problem or CONFLICT? </div>
+<div class="border-t-4 border-l-4 border-r-4 border-purple-500 rounded-lg p-1 pb-15"> What is the sequence of EVENTS? (First, next, then...) </div>
+<div class="border-4 border-purple-500 rounded-lg gap-4 p-1 pb-25">How does the problem or conflict get resolved? (RESOLUTION)</div>
+<div class="border-b-4 border-l-4 border-r-4 border-purple-500 rounded-lg"></div>
+</div>
 
 ---
 
 # Visualizing Vocabulary
 
-| Term | Textbook Definition | My Definition | Image/Symbol/Icon | Explanation |
-|------|---------------------|---------------|-------------------|-------------|
-| | | | | |
-| | | | | |
-| | | | | |
+<div class="grid grid-cols-5">
+<div class="border-4 border-purple-500 text-center p-7">Term</div>
+<div class="border-4 border-purple-500 text-center p-7">Textbook Definition</div>
+<div class="border-4 border-purple-500 text-center p-7">My Definition</div>
+<div class="border-4 border-purple-500 text-center p-7">Image/Symbol/Icon </div>
+<div class="border-4 border-purple-500 text-center p-7">Explanation </div>
+</div>
+<div class="grid grid-cols-5">
+<div class="border-4 border-purple-500 text-center p-7"></div>
+<div class="border-4 border-purple-500 text-center p-7"></div>
+<div class="border-4 border-purple-500 text-center p-7"></div>
+<div class="border-4 border-purple-500 text-center p-7"></div>
+<div class="border-4 border-purple-500 text-center p-7"></div>
+</div>
+<div class="grid grid-cols-5">
+<div class="border-4 border-purple-500 text-center p-7"></div>
+<div class="border-4 border-purple-500 text-center p-7"></div>
+<div class="border-4 border-purple-500 text-center p-7"></div>
+<div class="border-4 border-purple-500 text-center p-7"></div>
+<div class="border-4 border-purple-500 text-center p-7"></div>
+</div>
+<div class="grid grid-cols-5">
+<div class="border-4 border-purple-500 text-center p-7"></div>
+<div class="border-4 border-purple-500 text-center p-7"></div>
+<div class="border-4 border-purple-500 text-center p-7"></div>
+<div class="border-4 border-purple-500 text-center p-7"></div>
+<div class="border-4 border-purple-500 text-center p-7"></div>
+</div>
+<div class="grid grid-cols-5">
+<div class="border-4 border-purple-500 text-center p-7"></div>
+<div class="border-4 border-purple-500 text-center p-7"></div>
+<div class="border-4 border-purple-500 text-center p-7"></div>
+<div class="border-4 border-purple-500 text-center p-7"></div>
+<div class="border-4 border-purple-500 text-center p-7"></div>
+</div>
 
 ---
+layout: fact
 class: text-center
 ---
 
@@ -1124,35 +1006,84 @@ class: text-center
 
 # Planning Framework
 
-| Process ↓<br>Content ↓ | How will I frame the content around big ideas? | How will I ensure that students actively make meaning of content? |
-|------------------------|------------------------------------------------|-------------------------------------------------------------------|
-| **Unit Topics** | **A Study In...** | **Essential Questions** | **Skills** | **Tools** |
-| | | | • CON<br>• NMS<br>• COM<br>• RU<br>• PH<br>• VGR<br>• PTE | |
+<div class="flex">
+<div class="flex-grow-1 border-4 border-purple-500 p-1 pb-5 w-20"><div>Process</div><div>Content</div></div>
+<div class="flex-grow-4 border-4 border-purple-500 pb-5 w-40 text-center">How will I frame the content around big ideas? </div>
+<div class="flex-grow-2 border-4 border-purple-500 pb-5 w-30 text-center">How will I ensure that students actively make meaning of content?</div>
+</div>
 
-*Key to thinking skills: Conceptualizing; Note Making and Summarizing; Comparing; Reading for Understanding: Predicting and Hypothesizing; Visualizing and Graphic Representations: Perspective Taking and Empathizing.
+<div class="flex" bg-gray-200>
+<div class="flex-grow-1 border-4 border-purple-500 text-center p-1 w-20">Unit Topics</div>
+<div class="flex-grow-2 border-4 border-purple-500 text-center p-1 w-20">A Study in...</div>
+<div class="flex-grow-2 border-4 border-purple-500 text-center p-1 w-20">Essential Questions</div>
+<div class="flex-grow-1 border-4 border-purple-500 text-center p-1 w-15">Skills</div>
+<div class="flex-grow-1 border-4 border-purple-500 text-center p-1 w-15">Tools<div class="text-xs">CON; NMS; COM; RU; PH; VGR; PTE</div></div>
+</div>
+<div class="flex">
+<div class="flex-grow-1 border-4 border-purple-500 text-center p-7 w-20"></div>
+<div class="flex-grow-2 border-4 border-purple-500 text-center p-7 w-20"></div>
+<div class="flex-grow-2 border-4 border-purple-500 text-center p-7 w-20"></div>
+<div class="flex-grow-1 border-4 border-purple-500 text-center p-7 w-15"></div>
+<div class="flex-grow-1 border-4 border-purple-500 text-center p-7 w-15"></div>
+</div>
+<div class="flex">
+<div class="flex-grow-1 border-4 border-purple-500 text-center p-7 w-20"></div>
+<div class="flex-grow-2 border-4 border-purple-500 text-center p-7 w-20"></div>
+<div class="flex-grow-2 border-4 border-purple-500 text-center p-7 w-20"></div>
+<div class="flex-grow-1 border-4 border-purple-500 text-center p-7 w-15"></div>
+<div class="flex-grow-1 border-4 border-purple-500 text-center p-7 w-15"></div>
+</div>
+<div class="flex">
+<div class="flex-grow-1 border-4 border-purple-500 text-center p-7 w-20"></div>
+<div class="flex-grow-2 border-4 border-purple-500 text-center p-7 w-20"></div>
+<div class="flex-grow-2 border-4 border-purple-500 text-center p-7 w-20"></div>
+<div class="flex-grow-1 border-4 border-purple-500 text-center p-7 w-15"></div>
+<div class="flex-grow-1 border-4 border-purple-500 text-center p-7 w-15"></div>
+</div>
+<div class="text-xs opacity-50">
+*Key to thinking skills: Conceptualizing; Note Making and Summarizing; Comparing; Reading for Understanding: Predicting and Hypothesizing; Visualizing and Graphic Representations: Perspective Taking and Empathizing.</div>
 
 ---
 
 # Five Episode Framework
 
-| Instructional Episodes | _(Topic)_ : A study in _(Concept)_ |
-|------------------------|-----------------------------------|
-| 1. Preparing students for new learning | |
-| 2. Presenting new learning | |
+<div style="max-height: 500px; overflow-y: auto; padding-right: 15px; padding-bottom: 50px">
 
----
+<div class="flex bg-gray-200">
+<div class="flex-grow-1 border-4 border-purple-500 text-center p-1  w-20">Instructional Episodes</div>
+<div class="flex-grow-3 border-4 border-purple-500 text-center p-1 w-20"> <i>Topic</i>: A study in <i>Concept</i> </div>
+</div>
+<div class="flex">
+<div class="flex-grow-1 border-4 border-purple-500 text-center p-7 pb-20 w-20 bg-gray-200">1. Preparing students for new learning</div>
+<div class="flex-grow-3 border-4 border-purple-500 text-center p-7 pb-20 w-20"></div>
+</div>
+<div class="flex">
+<div class="flex-grow-1 border-4 border-purple-500 text-center p-7 pb-20 w-20 bg-gray-200">2. Presenting new learning</div>
+<div class="flex-grow-3 border-4 border-purple-500 text-center p-7 pb-20 w-20"></div>
+</div>
 
-# Five Episode Framework (cont.)
 
-| Instructional Episodes | |
-|------------------------|---|
-| 3. Deepening and reinforcing learning | |
-| 4. Applying and demonstrating learning | |
-| 5. Reflecting on and celebrating learning | |
+<div class="flex">
+<div class="flex-grow-1 border-4 border-purple-500 text-center p-7 pb-15 w-20 bg-gray-200">3. Deepening and reinforcing learning</div>
+<div class="flex-grow-3 border-4 border-purple-500 text-center p-7 pb-15 w-20"></div>
+</div>
+<div class="flex">
+<div class="flex-grow-1 border-4 border-purple-500 text-center p-7 pb-15 w-20 bg-gray-200">4. Applying and demonstrating learning </div>
+<div class="flex-grow-3 border-4 border-purple-500 text-center p-7 pb-15 w-20"></div>
+</div>
+<div class="flex">
+<div class="flex-grow-1 border-4 border-purple-500 text-center p-7 pb-15 w-20 bg-gray-200">5. Reflecting on and celebrating learning</div>
+<div class="flex-grow-3 border-4 border-purple-500 text-center p-7 pb-15 w-20"></div>
+</div>
+</div>
 
 ---
 class: text-center
-layout: center
+layout: end
 ---
 
-# -fini
+# -fini-
+
+---
+end
+---
